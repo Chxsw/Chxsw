@@ -60,19 +60,19 @@ I am a computer science student (specialized in vibe coding) focused on custom s
   <tr>
     <td width="50%" valign="top">
       <h3>📍 IPTracker | Geolocation</h3>
-      <p>Herramienta avanzada para el rastreo de IPs públicas mediante PDFs infectados y servidores intermediarios para geolocalización exacta.</p>
+      <p>Advanced tool for tracking public IPs using infected PDFs and intermediary servers for precise geolocation.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🔗 QR PermanentPY</h3>
-      <p>Generador de códigos QR permanentes y escalables, diseñado para facilitar la integración de diseños personalizados y funcionales.</p>
+      <p>Permanent and scalable QR code generator, designed to facilitate the integration of custom and functional designs.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ UnSafeByte Malware</h3>
-      <p>Proyecto de Ransomware educativo desarrollado desde cero para la <b>XII Feria Tecnológica de Santo Tomás</b>. Enfocado en la investigación de ciberseguridad.</p>
+      <p>Educational ransomware project developed from scratch for the <b>XII Santo Tomás Technology Fair</b>. Focused on cybersecurity research.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CyberSecurity-RedTeam-red?style=for-the-badge" />
     </td>
