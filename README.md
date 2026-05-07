@@ -12,7 +12,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer science student (specialized in vibe coding) focused on custom software development. I have completed projects in different areas, such as: Malware, Video Games, Websites, Tracking Software, and Utility Programs.
+I am a computer science student, focused on custom software development. I have completed projects in different areas, such as: Malware, Video Games, Websites, Tracking Software, and Utility Programs.
 * **I am interested in custom software development, software optimization, and database management.**
 
 
