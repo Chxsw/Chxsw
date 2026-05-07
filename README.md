@@ -77,10 +77,25 @@ I am a computer science student (specialized in vibe coding) focused on custom s
       <img src="https://img.shields.io/badge/CyberSecurity-RedTeam-red?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      </td>
+      <h3>📺 YouTubeExtensionVA</h3>
+      <p>A project that allows you to set YouTube as your background, containing predefined images of endangered animals from Chile and the ability to upload images or GIFs for your wallpaper.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Ivy_PrivateStenography</h3>
+      <p>Private steganography and cryptography software that uses password encryption to keep the message secure.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📥 UrlMe</h3>
+      <p>A simple way to download videos or audio through their URLs, without ads!</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
   </tr>
 </table>
 
 ## Last Update
-08/04/2026
+07/05/2026
 
